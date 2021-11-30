@@ -1,0 +1,10 @@
+.notfound{
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+
+.img-not-found{
+    width: 100%;
+    height: auto;
+    display: block;
+}

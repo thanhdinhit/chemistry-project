@@ -1,0 +1,112 @@
+.title-style{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.btn-search-style{
+    width: 100%;
+}
+
+.txt-btn-search-style{
+    text-align: center;
+}
+
+.search-box-equation-style{
+    padding-top: 30px;
+    background-color: rgb(96, 196, 253);
+    padding-bottom: 20px;
+}
+
+.signin-signup-style{
+    /* float: right; */
+}
+
+.result-form-style{
+    padding-top: 15px;
+}
+
+.txt-result-style{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.txt-number-result-style{
+    font-size: 17px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.reactants-name-style{
+    font-size: 17px;
+    color: rgb(0, 102, 255);
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box {
+    margin: 20px;
+    border: 1px solid #ccc;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    /* font-weight: 100; */
+    letter-spacing: 2px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    /* text-align: center; */
+    flex: 1;
+    padding: 5px;
+    /* line-height: 1.4em; */
+}
+
+.all {
+    box-shadow: 0 0 5px rgb(109, 178, 243);
+}
+
+.color-reactants-name-style{
+    color: rgb(0, 102, 255);
+}
+
+.box-knowledge-more-style{
+    width:100%;
+    /* height:200px; */
+    background:#FFF;
+    /* margin:40px auto; */
+    padding-top: 20px;
+}
+
+.effect1 {
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 8px 6px -6px #777;
+}
+
+.knowledge-more-form-style{
+    padding-top: 10px;
+}
+
+.txt-knowledge-more-style{
+    padding-left: 20px;
+}
+
+/* arrow */
+.arrow-style{
+    font-size: 30px;
+    padding: 0px;
+    text-align: center;
+}
+
+.pinned-note { position: relative; background: #f8f1c6; background: linear-gradient(#f8f1c6 50%, #f8f1c6 98%, #989898 100%); background-size: 1px 34px; border-radius: 5px; border: 1px solid #C4C296; color: #43423d; text-shadow: 0 1px 1px #ffffff;  margin: 20px auto;}
+.pinned-note .nodes { background: radial-gradient(#ffffff 30%, transparent 1%) 0 0, radial-gradient(rgba(0,0,0,1) 1%, transparent 35%) 0 0px; background-size: 30px 30px; background-repeat: repeat-y; margin-left: 8px;}
+.pinned-note .no-nodes { background: none; margin-left: -20px;}
+.pinned-note .left-strip { border-left: 3px double #989898; margin-left: 40px; padding: 10px 20px 12px 20px; outline: none;}
+.pinned-heading { font-size: 20px; line-height: 32px; margin: 25px 0 10px;}
+.pinned-description { font-size: 16px; line-height: 34px; margin: 10px 0; position: relative; top: -2px;}
+.anchor-link { font-weight: bold; text-decoration: none;}
+
+.name-owner-style{
+    color: rgb(0, 102, 255);
+    font-style: italic;
+}
