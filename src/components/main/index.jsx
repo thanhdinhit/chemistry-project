@@ -23,7 +23,7 @@ class Main extends Component {
         return (
             <main>
                 <div className="wrapper">
-                    {/* <HeaderComponent /> */}
+                    <HeaderComponent />
                     <Switch>
                         <Route exact path='/' component={HomeComponent} />
                         <Route component={NotFound} />
